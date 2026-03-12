@@ -1,0 +1,11 @@
+This Power BI project analyzes banking client data to understand financial behavior, credit exposure, and customer risk distribution.
+
+The dashboard evaluates key financial metrics including deposits, loans, income levels, and investment behavior across 3000 banking clients.
+
+Key findings show that total deposits ($2.01B) exceed total loan exposure ($1.77B), indicating a strong liquidity position.
+
+Clients maintain high average incomes ($171K) while maintaining moderate retirement savings and foreign currency holdings.
+
+Risk analysis reveals that the majority of clients fall into moderate risk categories, while premium clients under higher fee structures maintain the largest credit balances.
+
+The dashboard enables banking decision-makers to evaluate customer segments, financial exposure, and portfolio risk distribution.
