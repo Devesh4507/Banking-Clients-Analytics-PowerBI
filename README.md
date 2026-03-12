@@ -31,7 +31,13 @@ Bank Deposits
 Credit Card Balance  
 Estimated Income  
 Fee Structure  
-Risk Weighting  
+Risk Weighting
+Savings Account
+Sex
+Superannuation Savings
+Total Bank Deposits
+Other Loan
+Sum of estimated income average
 
 ---
 
@@ -67,14 +73,6 @@ High Fee Structure clients
 
 Majority of clients fall into moderate risk weighting categories.
 
----
-
-## Repository Structure
-
-Dashboard → Power BI dashboard file  
-Screenshots → Dashboard previews  
-Dataset → Sample dataset  
-Insights → Business analysis summary  
 
 ---
 
